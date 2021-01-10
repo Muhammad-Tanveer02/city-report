@@ -1,0 +1,124 @@
+body {
+  padding-top: 70px;
+  padding-left: 70px;
+  padding-right: 70px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: whitesmoke;
+}
+
+.jumbotron-dashboard {
+  padding-top: 70px;
+  padding-right: 70px;
+  padding-left: 70px;
+  padding-bottom: 70px;
+  width: 1000px;
+  height: 100x;
+  background-color: rgb(226, 185, 108);
+}
+
+.city-input{
+  margin-bottom: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 30px;
+  align-content: center;
+}
+
+.btn-search{
+  text-align: center;
+  height: 100x;
+  margin-bottom: 50px;
+}
+
+.data-header{
+  margin-top: 20px;
+  font-size: xx-large;
+}
+
+.card-long{
+  margin-top: 0px;
+}
+
+.text-note{
+  color: crimson;
+}
+
+.text-null{
+  color: crimson;
+}
+
+.footer{
+  margin-top: 30px;
+}
+
+.container-map { 
+  height: 500px; 
+  width: 550px;
+  position: relative;
+}
+
+.bing-map{
+  border:1px solid black;
+}
+
+
+.table-bordered{
+  border:1px solid black;
+}
+
+.jumbotron-heading{
+  background-color: #1d5f14;
+  max-height: fit-content;
+  max-width: fit-content;
+  border-width: 30px;
+  border-color: black;
+  display: flex;
+  align-items: center;
+}
+
+.jumbotron-info{
+  background-color: #D2EECD;
+  max-height: fit-content;
+  max-width: fit-content;
+  display: flex;
+  align-items: center;
+}
+
+.container-heading{
+  color: white;
+  margin-top: -40px;
+  margin-bottom: -55px;
+}
+
+.container-info{
+  margin-top: -40px;
+  margin-bottom: -55px;
+}
+
+.note-card{
+  background-color: rgb(238, 181, 181);
+  max-height: fit-content;
+  max-width: fit-content;
+  margin-bottom: 30px;
+  margin-left: 6.7%;      
+  margin-right: 5%;
+}
+
+.notecard-text{
+  margin-top: -7px;
+  margin-bottom: -5px;
+}
+
+.basic-card{
+  background-color: lightcyan;
+  border-color: black;
+  max-height: fit-content;
+  max-width: fit-content;
+}
+
+.row-heading{
+  align-items: center;
+  margin-right: 3%;
+  margin-left: 3%;
+  margin-top: 3%;
+}
