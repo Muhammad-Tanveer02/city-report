@@ -1,19 +1,9 @@
 body {
   padding-top: 70px;
-  padding-left: 70px;
-  padding-right: 70px;
+  padding-left: 10%;
+  padding-right: 10%;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background-color: whitesmoke;
-}
-
-.jumbotron-dashboard {
-  padding-top: 70px;
-  padding-right: 70px;
-  padding-left: 70px;
-  padding-bottom: 70px;
-  width: 1000px;
-  height: 100x;
-  background-color: rgb(226, 185, 108);
 }
 
 .city-input{
@@ -68,8 +58,6 @@ body {
 
 .jumbotron-heading{
   background-color: #1d5f14;
-  max-height: fit-content;
-  max-width: fit-content;
   border-width: 30px;
   border-color: black;
   display: flex;
@@ -78,8 +66,6 @@ body {
 
 .jumbotron-info{
   background-color: #D2EECD;
-  max-height: fit-content;
-  max-width: fit-content;
   display: flex;
   align-items: center;
 }
@@ -97,8 +83,6 @@ body {
 
 .note-card{
   background-color: rgb(238, 181, 181);
-  max-height: fit-content;
-  max-width: fit-content;
   margin-bottom: 30px;
   margin-left: 6.7%;      
   margin-right: 5%;
